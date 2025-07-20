@@ -7,7 +7,7 @@
 
 ## 📊 Dashboard Preview
 
-<img src="https://raw.githubusercontent.com/ahmadyase1234/blood-type-distribution/main/blood_type_map.png" width="1000">
+<img src="https://github.com/ahmadyase1234/blood-type-distribution-dashboard/blob/main/blood%20%20type%20analysis.PNG" width="1000">
 
 ---
 
