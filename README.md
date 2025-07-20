@@ -1,7 +1,7 @@
 # 🩸 Blood Type Distribution Dashboard – Power BI Project
 
 **🔗 [My LinkedIn](https://www.linkedin.com/in/ahmad-yasser-faiq-data-analyst/)**  
-**📥 [View Power BI Report](https://github.com/ahmadyase1234/blood-type-distribution/blob/main/Blood_Type_Distribution.pbix)**  
+**📥 [View Power BI Report](https://github.com/ahmadyase1234/blood-type-distribution-dashboard/blob/main/Blood%20Type%20Analysis.pbix)**  
 
 ---
 
